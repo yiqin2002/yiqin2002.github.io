@@ -244,6 +244,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _reading
+  - scope:
+      path: ""
+      type: reading
+    values:
+      layout: reading
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
