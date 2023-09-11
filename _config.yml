@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiqin Wang"
+title                    : "Yiqin Wang / 王一钦"
 title_separator          : "-"
 name                     : &name "Yiqin"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiqin (pronounce close to Yichin)"
+  name             : "Yiqin"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Berkeley CA"
